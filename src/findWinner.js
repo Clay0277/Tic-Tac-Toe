@@ -18,4 +18,4 @@ function findWinner(board) {
   return null;
 }
 
-module.exports = findWinner;
+export default findWinner;
