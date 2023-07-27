@@ -1,0 +1,34 @@
+.game {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  font-variant: all-petite-caps;
+  padding-top: 400px;
+}
+
+.game-board {
+  margin-right: 20px;
+}
+
+.board-row {
+  display: flex;
+}
+
+.square {
+  width: 50px;
+  height: 50px;
+  border: 1px solid #ccc;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 24px;
+  font-weight: bold;
+  cursor: pointer;
+  background-color: red;
+}
+
+.game-info {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
