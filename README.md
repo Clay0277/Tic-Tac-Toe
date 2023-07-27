@@ -4,9 +4,9 @@ This project is a simple implementation of the classic Tic Tac Toe game built us
 
 ## Demo
 
-![screenshot of the tic-tac-toe game](img/Screenshot 2023-07-27 at 12.20.23 PM.png)
+![Screenshot of the tic-tac-toe game](https://github.com/Clay0277/Tic-Tac-Toe/blob/478a162308faebb036a2d2a11d8e7641de18aa1b/img/Screenshot%202023-07-27%20at%2012.20.23%20PM.png)
 
-[Live Demo]
+[Live Demo](https://clay0277.github.io/Tic-Tac-Toe/)
 
 ## Features
 
@@ -23,7 +23,8 @@ git clone https://github.com/your-username/tic-tac-toe.git
 ### Navigate to the project directory:
 
 cd tic-tac-toe
-Install the dependencies:
+
+### Install the dependencies:
 
 npm install
 
