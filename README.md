@@ -6,7 +6,7 @@ This project is a simple implementation of the classic Tic Tac Toe game built us
 
 ![Screenshot of the tic-tac-toe game](https://github.com/Clay0277/Tic-Tac-Toe/blob/478a162308faebb036a2d2a11d8e7641de18aa1b/img/Screenshot%202023-07-27%20at%2012.20.23%20PM.png)
 
-[Live Demo](https://clay0277.github.io/Tic-Tac-Toe/)
+[Live Demo](https://tic-tac-toe-3w8b.onrender.com)
 
 ## Features
 
@@ -31,6 +31,7 @@ npm install
 ### Start the development server:
 
 npm start
+
 ### Open your web browser and go to http://localhost:3000 to play the game.
 
 ## How to Play
@@ -40,6 +41,7 @@ Play against the AI opponent. You (X) will take the first turn, and the AI (O) w
 ## Make your move
 
 Click on an empty cell to make your move, and the AI will respond with its move automatically.
+
 ### Winning:
 
 If a player forms a line of three marks (horizontally, vertically, or diagonally), they win the game.
