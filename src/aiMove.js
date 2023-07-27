@@ -1,4 +1,4 @@
-const findWinner = require("./findWinner");
+import findWinner from "./findWinner";
 
 function aiMove(board) {
   let bestScore = -Infinity;
@@ -80,4 +80,4 @@ function minimax(board, depth, isMaximizing) {
   }
 }
 
-module.exports = aiMove;
+export default aiMove;
