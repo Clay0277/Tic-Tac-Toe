@@ -31,7 +31,7 @@ npm install
 ### Start the development server:
 
 npm start
-Open your web browser and go to http://localhost:3000 to play the game.
+### Open your web browser and go to http://localhost:3000 to play the game.
 
 ## How to Play
 
@@ -40,7 +40,7 @@ Play against the AI opponent. You (X) will take the first turn, and the AI (O) w
 ## Make your move
 
 Click on an empty cell to make your move, and the AI will respond with its move automatically.
-Winning:
+### Winning:
 
 If a player forms a line of three marks (horizontally, vertically, or diagonally), they win the game.
 If all cells are filled, and there is no winner, the game ends in a draw.
