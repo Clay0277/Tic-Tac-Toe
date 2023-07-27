@@ -80,4 +80,4 @@ function minimax(board, depth, isMaximizing) {
   }
 }
 
-export default aiMove;
+module.exports = aiMove;
