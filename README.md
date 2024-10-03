@@ -1,4 +1,4 @@
-# Tic Tac Toe Game
+# Unbeatable Tic Tac Toe Game
 
 This project is a simple implementation of the classic Tic Tac Toe game built using React.js. It allows players to take turns and play against an advanced AI opponent using the Minimax algorithm.
 
